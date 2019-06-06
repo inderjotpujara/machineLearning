@@ -1,0 +1,6 @@
+* Python pratice (Including functions and all the important datasets)
+* Numpy and pandas library mainfunctions
+* All algorithms with same datasets
+* Summary of Machine Learning
+* Make a folder of algorthims scripted by me while learning
+* write summary of each algorithm along with practice and sample training and test datasets
