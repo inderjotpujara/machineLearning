@@ -4,3 +4,4 @@
 * Summary of Machine Learning
 * Make a folder of algorthims scripted by me while learning
 * write summary of each algorithm along with practice and sample training and test datasets
+* write the important libraries and their most commonly used functions for ML
